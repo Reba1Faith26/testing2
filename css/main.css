@@ -1,0 +1,16 @@
+body{
+    background-color:black !important;
+    font-family:arial;
+}
+/*coding for computer navigation bar start here*/
+nav{
+    background-color:black !important;
+}
+#computer-li{
+    list-style:none;
+    margin-left:20px;
+}
+#computer-ul #computer-li a{
+    color:white;
+}
+/*coding for computer navigation bar ended here*/
